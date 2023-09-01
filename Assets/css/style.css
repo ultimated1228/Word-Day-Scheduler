@@ -17,6 +17,14 @@ button{
   
 }
 
+header{
+  text-align: center;
+}
+
+.lead {
+  font-weight: bold;
+}
+
 .description {
   white-space: pre-wrap;
 }
