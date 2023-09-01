@@ -61,8 +61,6 @@ Project Link: [https://github.com/ultimated1228/Word-Day-Scheduler](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Big props to a tutoring session with Jehyun Jung for giving me the basic framework of the JS script!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
