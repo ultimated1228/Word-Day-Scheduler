@@ -34,34 +34,8 @@ THEN the saved events persist
 
 * HTML
 * CSS
-* [![JQuery][JQuery.com]][JQuery-url]
-* [][Day.js]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+* [JQuery.com][JQuery-url]
+* [https://day.js.org/][Day.js]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,8 +51,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Live Site: [https://ultimated1228.github.io/Word-Day-Scheduler/](https://ultimated1228.github.io/Word-Day-Scheduler/)
-Project Link: [https://github.com/ultimated1228/Word-Day-Scheduler](https://github.com/ultimated1228/Word-Day-Scheduler)
+Live Site: [https://ultimated1228.github.io/Work-Day-Scheduler/](https://ultimated1228.github.io/Work-Day-Scheduler/)
+Project Link: [https://github.com/ultimated1228/Work-Day-Scheduler](https://github.com/ultimated1228/Work-Day-Scheduler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,8 +61,6 @@ Project Link: [https://github.com/ultimated1228/Word-Day-Scheduler](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Big props to a tutoring session with Jehyun Jung for helping me work through the basic framework of the JS script!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
