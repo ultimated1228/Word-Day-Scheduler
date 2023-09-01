@@ -1,11 +1,18 @@
 
 $(function () {
 
-  let currentDay = dayjs().format('dddd, MMMM D');
-  $("#currentDay").text(currentDay);
+  function updateDay(){
+    let currentDay = dayjs().format('dddd, MMMM D');
+    $("#currentDay").text(currentDay);
+}
+setInterval(updateDay, 1000);
 
-  let currentHour = dayjs().format('h:mm a');
-  $("#currentHour").text("Time of last page load:  " + currentHour);
+
+  function updateTime(){
+    let currentHour = dayjs().format('h:mm a');
+    $("#currentHour").text("Current Time:  " + currentHour);
+}
+setInterval(updateTime, 1000);
 
   $('.saveBtn').on("click", function(){
     console.log($(this))
