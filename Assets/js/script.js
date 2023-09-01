@@ -5,14 +5,16 @@ $(function () {
     let currentDay = dayjs().format('dddd, MMMM D');
     $("#currentDay").text(currentDay);
 }
-setInterval(updateDay, 1000);
+updateDay();
+setInterval(updateDay, 3600000);
 
 
   function updateTime(){
     let currentHour = dayjs().format('h:mm a');
     $("#currentHour").text("Current Time:  " + currentHour);
 }
-setInterval(updateTime, 1000);
+updateTime();
+setInterval(updateTime, 10000);
 
   $('.saveBtn').on("click", function(){
     console.log($(this))
