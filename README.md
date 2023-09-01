@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -36,6 +35,7 @@ THEN the saved events persist
 * HTML
 * CSS
 * [![JQuery][JQuery.com]][JQuery-url]
+* [][Day.js]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
